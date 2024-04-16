@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    width: 1120vh;
+    height: 1158px;
+    background-color: rgb(172, 128, 46);
+    display: flex;
+    margin-top: 15px;
+    margin-right: 50px;
+    padding: 20px;
+    padding-left: 60px;
+}
+.subcontainer{
+    width:  190vh;
+    height: 550px;
+    background-color: white;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 50px;
+}
+.navbar{
+    font-style: italic;
+    color: black;
+    display: flex;
+    text-align: center;
+  justify-content: space-between;
+}
+.navbar ,h4{
+    font-size: 20px;
+}
+.container-2{
+    width: 180vh;
+    height: 360px;
+    background-color: gray;
+    margin: top;
+    margin-left: 20px;
+    margin-top: 60px;
+    margin-bottom: center;
+
+}
+.atributes{
+    margin-top: 0px 60px;
+    margin-left:12px 50px;
+    font-size: 0px 120px;
+    text-align: left;
+    font-weight: 120px;
+
+}
+.atributes h4{
+    font-size: 60px;
+}
+.carousel{
+   margin-right: 80px;
+   margin-bottom: center;
+    float: left;
+}
+.search{
+    width: 120vh;
+    height: 100px;
+    background-color: aliceblue;
+    display: flex;
+    margin: 30px;
+    margin-top: 60px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+    padding: 10px;
+    padding-bottom: 20px;
+    }
+    .selection{
+        width: 210vh;
+        height: 480px;
+        background-color: aliceblue;
+
+    }
+    
